@@ -1,0 +1,9 @@
+C:\Users\SSS\source\repos\QLCF\QLCF\bin\Debug\QLCF.exe.config
+C:\Users\SSS\source\repos\QLCF\QLCF\bin\Debug\QLCF.exe
+C:\Users\SSS\source\repos\QLCF\QLCF\bin\Debug\QLCF.pdb
+C:\Users\SSS\source\repos\QLCF\QLCF\obj\Debug\QLCF.GiaSP.resources
+C:\Users\SSS\source\repos\QLCF\QLCF\obj\Debug\QLCF.Properties.Resources.resources
+C:\Users\SSS\source\repos\QLCF\QLCF\obj\Debug\QLCF.csproj.GenerateResource.Cache
+C:\Users\SSS\source\repos\QLCF\QLCF\obj\Debug\QLCF.csproj.CoreCompileInputs.cache
+C:\Users\SSS\source\repos\QLCF\QLCF\obj\Debug\QLCF.exe
+C:\Users\SSS\source\repos\QLCF\QLCF\obj\Debug\QLCF.pdb
